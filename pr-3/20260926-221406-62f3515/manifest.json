@@ -1,0 +1,51 @@
+{
+  "sha": "62f3515795c84823d197993fc337bd18b3dc67d5",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "map",
+  "entry": "app-launch",
+  "files": [
+    {
+      "name": "map-islands.png",
+      "sha256": "97381ae6e42c7c429fe309477ca2625933acd7342a0bc9f3dd61de8f46e43e63",
+      "bytes": 136462,
+      "kind": "screenshot"
+    },
+    {
+      "name": "map-launch.mp4",
+      "sha256": "220c5833d9f34a653da3a0a449d8a08204da682662ff56c3801edfb7222945c8",
+      "bytes": 1168371,
+      "kind": "video"
+    },
+    {
+      "name": "map-launch.gif",
+      "sha256": "393fdb172ff09e2cb8059be73ec665256cc4ba0fc9e841d5b641d0a809bf27d8",
+      "bytes": 371163,
+      "kind": "gif"
+    }
+  ],
+  "captured_at": "2026-09-26T22:14:06.942981+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 4,
+    "items": [
+      {
+        "name": "map-islands.png",
+        "sha256": "97381ae6e42c7c429fe309477ca2625933acd7342a0bc9f3dd61de8f46e43e63"
+      },
+      {
+        "name": "map-launch.gif",
+        "sha256": "393fdb172ff09e2cb8059be73ec665256cc4ba0fc9e841d5b641d0a809bf27d8"
+      }
+    ],
+    "videos": {
+      "map-launch.mp4": {
+        "sha256": "220c5833d9f34a653da3a0a449d8a08204da682662ff56c3801edfb7222945c8",
+        "frames": 2
+      }
+    },
+    "reviewed_at": "2026-09-26T22:14:48.510409+08:00"
+  }
+}
