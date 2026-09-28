@@ -1,0 +1,51 @@
+{
+  "sha": "579e135117e430667d745a8c71ab2db8df52a63b",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "system-states",
+  "entry": "background",
+  "files": [
+    {
+      "name": "background-resume.mp4",
+      "sha256": "6608a31b713ba6ceb169f48e533203527eb870cb3e990572fd59ec9ec6db9968",
+      "bytes": 197996,
+      "kind": "video"
+    },
+    {
+      "name": "background-resume.gif",
+      "sha256": "f08e242dce4a60f0bf25901695856222374d0aefccf3f1ddbff712a66f5b2a75",
+      "bytes": 646574,
+      "kind": "gif"
+    },
+    {
+      "name": "background-resume-end.png",
+      "sha256": "fd6db932939662f31de8320e155b38a650be09a7dd5b9aebb71f71a34af35122",
+      "bytes": 158266,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-09-28T14:39:10.971966+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 3,
+    "items": [
+      {
+        "name": "background-resume.gif",
+        "sha256": "f08e242dce4a60f0bf25901695856222374d0aefccf3f1ddbff712a66f5b2a75"
+      },
+      {
+        "name": "background-resume-end.png",
+        "sha256": "fd6db932939662f31de8320e155b38a650be09a7dd5b9aebb71f71a34af35122"
+      }
+    ],
+    "videos": {
+      "background-resume.mp4": {
+        "sha256": "6608a31b713ba6ceb169f48e533203527eb870cb3e990572fd59ec9ec6db9968",
+        "frames": 1
+      }
+    },
+    "reviewed_at": "2026-09-28T16:32:20.869928+08:00"
+  }
+}
