@@ -1,0 +1,51 @@
+{
+  "sha": "579e135117e430667d745a8c71ab2db8df52a63b",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "unit-flow",
+  "entry": "hold-to-exit",
+  "files": [
+    {
+      "name": "hold-to-exit.mp4",
+      "sha256": "19db9094902e93763f182a0eb12c03d5ae9f7452be6977d2302e209b9451ebfd",
+      "bytes": 48940,
+      "kind": "video"
+    },
+    {
+      "name": "hold-to-exit.gif",
+      "sha256": "7504b95d2e078408ff44a1b62ed1ca2e2d3c6c272789d00aacf498c5f91c8043",
+      "bytes": 65091,
+      "kind": "gif"
+    },
+    {
+      "name": "hold-to-exit-end.png",
+      "sha256": "4b8778350383a6a5eb04a38a404ca05acc378bc6a1fe1bfb43516dda4c0ca8d4",
+      "bytes": 120121,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-09-28T14:38:47.480020+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 3,
+    "items": [
+      {
+        "name": "hold-to-exit.gif",
+        "sha256": "7504b95d2e078408ff44a1b62ed1ca2e2d3c6c272789d00aacf498c5f91c8043"
+      },
+      {
+        "name": "hold-to-exit-end.png",
+        "sha256": "4b8778350383a6a5eb04a38a404ca05acc378bc6a1fe1bfb43516dda4c0ca8d4"
+      }
+    ],
+    "videos": {
+      "hold-to-exit.mp4": {
+        "sha256": "19db9094902e93763f182a0eb12c03d5ae9f7452be6977d2302e209b9451ebfd",
+        "frames": 1
+      }
+    },
+    "reviewed_at": "2026-09-28T14:40:37.431602+08:00"
+  }
+}
