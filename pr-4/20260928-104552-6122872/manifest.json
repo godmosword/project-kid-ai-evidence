@@ -1,0 +1,51 @@
+{
+  "sha": "6122872fff4b1d2e0047b3e7ca008273519134b8",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "drag",
+  "entry": "tap-to-place",
+  "files": [
+    {
+      "name": "drag-tap-to-place.mp4",
+      "sha256": "87604f51971c9ebbe82964cedcfef08eed7415cd712e62499652b69badefd76c",
+      "bytes": 100678,
+      "kind": "video"
+    },
+    {
+      "name": "drag-tap-to-place.gif",
+      "sha256": "26ebd7a6fb759db6cabe8220c118342f2a9026fc35063d661d99877fec2ae782",
+      "bytes": 235508,
+      "kind": "gif"
+    },
+    {
+      "name": "drag-tap-to-place-end.png",
+      "sha256": "56c3d05ff6936ccc7dcedf61070f789195412c60d463d217033de2f204c2bc3a",
+      "bytes": 210023,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-09-28T10:45:52.960161+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 5,
+    "items": [
+      {
+        "name": "drag-tap-to-place.gif",
+        "sha256": "26ebd7a6fb759db6cabe8220c118342f2a9026fc35063d661d99877fec2ae782"
+      },
+      {
+        "name": "drag-tap-to-place-end.png",
+        "sha256": "56c3d05ff6936ccc7dcedf61070f789195412c60d463d217033de2f204c2bc3a"
+      }
+    ],
+    "videos": {
+      "drag-tap-to-place.mp4": {
+        "sha256": "87604f51971c9ebbe82964cedcfef08eed7415cd712e62499652b69badefd76c",
+        "frames": 3
+      }
+    },
+    "reviewed_at": "2026-09-28T10:47:43.067896+08:00"
+  }
+}
