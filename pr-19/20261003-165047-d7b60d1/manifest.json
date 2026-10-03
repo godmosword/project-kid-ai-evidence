@@ -1,0 +1,51 @@
+{
+  "sha": "d7b60d1b1ed01555719cb03350cfe0c365bd9f3a",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "drag",
+  "entry": "group",
+  "files": [
+    {
+      "name": "drag-group.mp4",
+      "sha256": "41b8de6ec063c0cc276263ce835d087d6db21edca96e196d33181f5530e06407",
+      "bytes": 203520,
+      "kind": "video"
+    },
+    {
+      "name": "drag-group.gif",
+      "sha256": "c5e51edb4503b767525d6ca3850adb8a8e51f2d0500396d9f13f8b1b1ff0b800",
+      "bytes": 413064,
+      "kind": "gif"
+    },
+    {
+      "name": "drag-group-end.png",
+      "sha256": "378d77715f51c470b4dce3eee58263f5df64afb38550a6c873a0175b0845011f",
+      "bytes": 213693,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-10-03T16:50:47.140118+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 7,
+    "items": [
+      {
+        "name": "drag-group.gif",
+        "sha256": "c5e51edb4503b767525d6ca3850adb8a8e51f2d0500396d9f13f8b1b1ff0b800"
+      },
+      {
+        "name": "drag-group-end.png",
+        "sha256": "378d77715f51c470b4dce3eee58263f5df64afb38550a6c873a0175b0845011f"
+      }
+    ],
+    "videos": {
+      "drag-group.mp4": {
+        "sha256": "41b8de6ec063c0cc276263ce835d087d6db21edca96e196d33181f5530e06407",
+        "frames": 5
+      }
+    },
+    "reviewed_at": "2026-10-03T16:52:21.550014+08:00"
+  }
+}
