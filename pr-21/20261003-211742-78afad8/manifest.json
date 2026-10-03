@@ -1,0 +1,51 @@
+{
+  "sha": "78afad8d706b483bece6e5017c2c2ea24666f465",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "sandbox",
+  "entry": "slot-breakfast",
+  "files": [
+    {
+      "name": "sandbox-breakfast.mp4",
+      "sha256": "be818f5494e3100092860c27673dfc93ea7a84424b8e7b5f34e948564f37c1ae",
+      "bytes": 136520,
+      "kind": "video"
+    },
+    {
+      "name": "sandbox-breakfast.gif",
+      "sha256": "731563a9f156dbeda4fdfe293ef6390d41d6910b3527616bf66c10eda3a185e7",
+      "bytes": 185962,
+      "kind": "gif"
+    },
+    {
+      "name": "sandbox-breakfast-end.png",
+      "sha256": "d73c36587d43cd8e13b93e12c70795cd2a752e8dc53bb1fb9a831418de6be8d1",
+      "bytes": 415438,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-10-03T21:17:42.759698+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 6,
+    "items": [
+      {
+        "name": "sandbox-breakfast.gif",
+        "sha256": "731563a9f156dbeda4fdfe293ef6390d41d6910b3527616bf66c10eda3a185e7"
+      },
+      {
+        "name": "sandbox-breakfast-end.png",
+        "sha256": "d73c36587d43cd8e13b93e12c70795cd2a752e8dc53bb1fb9a831418de6be8d1"
+      }
+    ],
+    "videos": {
+      "sandbox-breakfast.mp4": {
+        "sha256": "be818f5494e3100092860c27673dfc93ea7a84424b8e7b5f34e948564f37c1ae",
+        "frames": 4
+      }
+    },
+    "reviewed_at": "2026-10-03T21:20:11.329317+08:00"
+  }
+}
