@@ -1,0 +1,51 @@
+{
+  "sha": "c94441d8e5cfd65045db1e03f71b1dfa1a56f2f0",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "review-and-sticker",
+  "entry": "finish",
+  "files": [
+    {
+      "name": "sticker.mp4",
+      "sha256": "9eb2b40e1512f506582bf164c5fb1340f4d02ce42fd009a6190a54dd5befe289",
+      "bytes": 73963,
+      "kind": "video"
+    },
+    {
+      "name": "sticker.gif",
+      "sha256": "ed90cc3322de5359ccaf937ae7958aa7ff98dd8f05da5b04c50748f5abd75be1",
+      "bytes": 85758,
+      "kind": "gif"
+    },
+    {
+      "name": "sticker-end.png",
+      "sha256": "923c295d86b2eed7a5d867bb5f8ade6c1b63e0e8b05434a7258159eeebb8289d",
+      "bytes": 144984,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-10-03T21:07:01.387433+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 3,
+    "items": [
+      {
+        "name": "sticker.gif",
+        "sha256": "ed90cc3322de5359ccaf937ae7958aa7ff98dd8f05da5b04c50748f5abd75be1"
+      },
+      {
+        "name": "sticker-end.png",
+        "sha256": "923c295d86b2eed7a5d867bb5f8ade6c1b63e0e8b05434a7258159eeebb8289d"
+      }
+    ],
+    "videos": {
+      "sticker.mp4": {
+        "sha256": "9eb2b40e1512f506582bf164c5fb1340f4d02ce42fd009a6190a54dd5befe289",
+        "frames": 1
+      }
+    },
+    "reviewed_at": "2026-10-03T21:20:27.266542+08:00"
+  }
+}
