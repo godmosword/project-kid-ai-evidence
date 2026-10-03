@@ -1,0 +1,51 @@
+{
+  "sha": "78afad8d706b483bece6e5017c2c2ea24666f465",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "sandbox",
+  "entry": "slot-animal",
+  "files": [
+    {
+      "name": "sandbox-animal.mp4",
+      "sha256": "2d34f76e925d849b5e7e68277801b0fe36a87ac7ef0ca9a8ba5c50d78bd932e5",
+      "bytes": 142348,
+      "kind": "video"
+    },
+    {
+      "name": "sandbox-animal.gif",
+      "sha256": "9b8d672006e78a0c0a6cd53ab963595600e52255ba719149216f254e992a1789",
+      "bytes": 193990,
+      "kind": "gif"
+    },
+    {
+      "name": "sandbox-animal-end.png",
+      "sha256": "e1e96a21cefd25f79bee96b176cb0b3db77f736ec8cd7bb298df5ecf568c20a3",
+      "bytes": 415292,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-10-03T21:18:38.804382+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 6,
+    "items": [
+      {
+        "name": "sandbox-animal.gif",
+        "sha256": "9b8d672006e78a0c0a6cd53ab963595600e52255ba719149216f254e992a1789"
+      },
+      {
+        "name": "sandbox-animal-end.png",
+        "sha256": "e1e96a21cefd25f79bee96b176cb0b3db77f736ec8cd7bb298df5ecf568c20a3"
+      }
+    ],
+    "videos": {
+      "sandbox-animal.mp4": {
+        "sha256": "2d34f76e925d849b5e7e68277801b0fe36a87ac7ef0ca9a8ba5c50d78bd932e5",
+        "frames": 4
+      }
+    },
+    "reviewed_at": "2026-10-03T21:20:14.779510+08:00"
+  }
+}
