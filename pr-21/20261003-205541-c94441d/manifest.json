@@ -1,0 +1,51 @@
+{
+  "sha": "c94441d8e5cfd65045db1e03f71b1dfa1a56f2f0",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "sandbox",
+  "entry": "ritual-to-sandbox",
+  "files": [
+    {
+      "name": "sandbox-ritual.mp4",
+      "sha256": "6a80f459ed710ca19dac8cfd28adacd4b3f315d27290437c5e9a7f356fb37fbc",
+      "bytes": 115634,
+      "kind": "video"
+    },
+    {
+      "name": "sandbox-ritual.gif",
+      "sha256": "ae3a5540edda81b3027ebcc5cd59367eccb439dffed592193737f8452b46d917",
+      "bytes": 172104,
+      "kind": "gif"
+    },
+    {
+      "name": "sandbox-ritual-end.png",
+      "sha256": "0cc05747d9a72f2ad4ed2bea06806f956f859096786734753c057cc248b5cbc3",
+      "bytes": 295557,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-10-03T20:55:41.705259+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 4,
+    "items": [
+      {
+        "name": "sandbox-ritual.gif",
+        "sha256": "ae3a5540edda81b3027ebcc5cd59367eccb439dffed592193737f8452b46d917"
+      },
+      {
+        "name": "sandbox-ritual-end.png",
+        "sha256": "0cc05747d9a72f2ad4ed2bea06806f956f859096786734753c057cc248b5cbc3"
+      }
+    ],
+    "videos": {
+      "sandbox-ritual.mp4": {
+        "sha256": "6a80f459ed710ca19dac8cfd28adacd4b3f315d27290437c5e9a7f356fb37fbc",
+        "frames": 2
+      }
+    },
+    "reviewed_at": "2026-10-03T21:20:05.169043+08:00"
+  }
+}
