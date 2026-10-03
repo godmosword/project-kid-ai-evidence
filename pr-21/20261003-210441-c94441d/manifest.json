@@ -1,0 +1,51 @@
+{
+  "sha": "c94441d8e5cfd65045db1e03f71b1dfa1a56f2f0",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "story",
+  "entry": "ending",
+  "files": [
+    {
+      "name": "story-ending.mp4",
+      "sha256": "dedc292fb9da2684aa022789c4ea938b8b7fcc1e87ba052d4c9635363de3f0a7",
+      "bytes": 187299,
+      "kind": "video"
+    },
+    {
+      "name": "story-ending.gif",
+      "sha256": "88a3974eba7b65f002dbb501025df0052503ca69b2bd8c60301a6f66ab4331ab",
+      "bytes": 282615,
+      "kind": "gif"
+    },
+    {
+      "name": "story-ending-end.png",
+      "sha256": "4d359473c0b06c27bc985c7042dc0bc750bcfea36d9f52aba96209ebea48fb15",
+      "bytes": 167018,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-10-03T21:04:41.773431+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 10,
+    "items": [
+      {
+        "name": "story-ending.gif",
+        "sha256": "88a3974eba7b65f002dbb501025df0052503ca69b2bd8c60301a6f66ab4331ab"
+      },
+      {
+        "name": "story-ending-end.png",
+        "sha256": "4d359473c0b06c27bc985c7042dc0bc750bcfea36d9f52aba96209ebea48fb15"
+      }
+    ],
+    "videos": {
+      "story-ending.mp4": {
+        "sha256": "dedc292fb9da2684aa022789c4ea938b8b7fcc1e87ba052d4c9635363de3f0a7",
+        "frames": 8
+      }
+    },
+    "reviewed_at": "2026-10-03T21:20:23.958779+08:00"
+  }
+}
