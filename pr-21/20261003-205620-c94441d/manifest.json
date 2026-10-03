@@ -1,0 +1,51 @@
+{
+  "sha": "c94441d8e5cfd65045db1e03f71b1dfa1a56f2f0",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "sandbox",
+  "entry": "open",
+  "files": [
+    {
+      "name": "sandbox-open.mp4",
+      "sha256": "9612133f9718094c422b1a0cbe45fde08b483bd97beabdd010381a74ba6e57b5",
+      "bytes": 91671,
+      "kind": "video"
+    },
+    {
+      "name": "sandbox-open.gif",
+      "sha256": "8904d083f279d441b720217ab0857f68f5626c1758a8d083c7ccf5c07f00bc22",
+      "bytes": 125096,
+      "kind": "gif"
+    },
+    {
+      "name": "sandbox-open-end.png",
+      "sha256": "82c415019584a46bf7b81db68dfb7f1a5670a1ec718ab4ece8e387f3091fb11a",
+      "bytes": 361500,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-10-03T20:56:20.467204+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 5,
+    "items": [
+      {
+        "name": "sandbox-open.gif",
+        "sha256": "8904d083f279d441b720217ab0857f68f5626c1758a8d083c7ccf5c07f00bc22"
+      },
+      {
+        "name": "sandbox-open-end.png",
+        "sha256": "82c415019584a46bf7b81db68dfb7f1a5670a1ec718ab4ece8e387f3091fb11a"
+      }
+    ],
+    "videos": {
+      "sandbox-open.mp4": {
+        "sha256": "9612133f9718094c422b1a0cbe45fde08b483bd97beabdd010381a74ba6e57b5",
+        "frames": 3
+      }
+    },
+    "reviewed_at": "2026-10-03T21:20:08.085523+08:00"
+  }
+}
