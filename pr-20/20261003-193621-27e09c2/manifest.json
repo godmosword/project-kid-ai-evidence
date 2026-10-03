@@ -1,0 +1,51 @@
+{
+  "sha": "27e09c2301387236bb367bbbc33667b7af487d50",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "map",
+  "entry": "tap-island",
+  "files": [
+    {
+      "name": "map-to-unit1.mp4",
+      "sha256": "dad663055b1745acfbf5e2b562fa100e1831e8d254bb1299899f5dbf7d2b1dcf",
+      "bytes": 73794,
+      "kind": "video"
+    },
+    {
+      "name": "map-to-unit1.gif",
+      "sha256": "368133e1ae2a20c7189bae46df4ca43b183d48d108d97332791d59def8873532",
+      "bytes": 74432,
+      "kind": "gif"
+    },
+    {
+      "name": "map-to-unit1-end.png",
+      "sha256": "fa0174bb2d3e0ddbac00f3a60bb7126c2dd69b2922d7df9cf95b8244133d401a",
+      "bytes": 329872,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-10-03T19:36:21.759649+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 3,
+    "items": [
+      {
+        "name": "map-to-unit1.gif",
+        "sha256": "368133e1ae2a20c7189bae46df4ca43b183d48d108d97332791d59def8873532"
+      },
+      {
+        "name": "map-to-unit1-end.png",
+        "sha256": "fa0174bb2d3e0ddbac00f3a60bb7126c2dd69b2922d7df9cf95b8244133d401a"
+      }
+    ],
+    "videos": {
+      "map-to-unit1.mp4": {
+        "sha256": "dad663055b1745acfbf5e2b562fa100e1831e8d254bb1299899f5dbf7d2b1dcf",
+        "frames": 1
+      }
+    },
+    "reviewed_at": "2026-10-03T19:44:42.456901+08:00"
+  }
+}
