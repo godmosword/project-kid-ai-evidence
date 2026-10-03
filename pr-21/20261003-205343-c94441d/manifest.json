@@ -1,0 +1,51 @@
+{
+  "sha": "c94441d8e5cfd65045db1e03f71b1dfa1a56f2f0",
+  "dirty": false,
+  "device": "iPhone 17e",
+  "runtime": "iOS 27.0",
+  "simulator": "KidsAI-Verify",
+  "feature": "choice-question",
+  "entry": "answer",
+  "files": [
+    {
+      "name": "choice-answer.mp4",
+      "sha256": "35939b4da660326f4f3f3fd9fc161a47f6c64c806234e23460db028b381098ec",
+      "bytes": 138936,
+      "kind": "video"
+    },
+    {
+      "name": "choice-answer.gif",
+      "sha256": "9902a4248912dbda504857416d780d6caa7776e9095aa60b1578601a0a96898f",
+      "bytes": 223572,
+      "kind": "gif"
+    },
+    {
+      "name": "choice-answer-end.png",
+      "sha256": "3633426ff0ec9334552c29ff3aace18e11295a74264f0f9cf3fc4a2522a3f26d",
+      "bytes": 299861,
+      "kind": "screenshot"
+    }
+  ],
+  "captured_at": "2026-10-03T20:53:43.156833+08:00",
+  "visual_review": {
+    "ok": true,
+    "images_checked": 6,
+    "items": [
+      {
+        "name": "choice-answer.gif",
+        "sha256": "9902a4248912dbda504857416d780d6caa7776e9095aa60b1578601a0a96898f"
+      },
+      {
+        "name": "choice-answer-end.png",
+        "sha256": "3633426ff0ec9334552c29ff3aace18e11295a74264f0f9cf3fc4a2522a3f26d"
+      }
+    ],
+    "videos": {
+      "choice-answer.mp4": {
+        "sha256": "35939b4da660326f4f3f3fd9fc161a47f6c64c806234e23460db028b381098ec",
+        "frames": 4
+      }
+    },
+    "reviewed_at": "2026-10-03T21:19:55.811619+08:00"
+  }
+}
